@@ -1,8 +1,5 @@
-<h1>Sections</h1>
-  <ol>
-    <li>loading.ipynb</li>
-    <li>cleaning.ipynb</li>
-    <li>text_analysis.ipynb</li>
-    <li>modeling.ipynb</li>
-  </ol>
-  
+Sections:
+1. loading.ipynb
+2. cleaning.ipynb
+3. text_analysis.ipynb
+4. modeling.ipynb
